@@ -1,0 +1,12 @@
+/*.zip
+/app
+/app*
+/img
+/*/img
+!dz/img
+/*.**.gz
+/*.**.json
+/**/test.*.js
+/.vscode
+/*.txt
+/*/.*
